@@ -1,4 +1,6 @@
 //Open door Path example
+//This is an example of how a point can travel in a curve that will
+//work as door opening/closing.
 
 int x = 500;
 int valueX = 0;
